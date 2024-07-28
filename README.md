@@ -1,5 +1,3 @@
-### **Project 1: Advanced Forecasting and Delay Analysis in Animation Production**
-
 ## **Introduction**
 
 This project explores forecasting and analyzing delays in the animation production process across three studios—StudioA, StudioB, and StudioC. The primary goal is to utilize data-driven insights to identify patterns, predict potential delays, and suggest strategies to enhance scheduling accuracy and overall production efficiency.
