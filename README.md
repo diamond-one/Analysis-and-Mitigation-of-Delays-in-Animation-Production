@@ -4,8 +4,6 @@
 
 This project explores forecasting and analyzing delays in the animation production process across three studios—StudioA, StudioB, and StudioC. The primary goal is to utilize data-driven insights to identify patterns, predict potential delays, and suggest strategies to enhance scheduling accuracy and overall production efficiency.
 
-![image](https://github.com/user-attachments/assets/08fd948b-3f35-4bd0-9a3a-fef035dcc7ba)
-
 ## **Data Collection and Methodology**
 
 **Data Sources and Tools:**
